@@ -1,0 +1,3 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol "void __cdecl test4Func(void)" (?test4Func@@YAXXZ) referenced in function _main
+D:\Projection\VS2019\CppQ\Debug\StaticDemo.exe : fatal error LNK1120: 1 unresolved externals
